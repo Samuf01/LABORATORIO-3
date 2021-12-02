@@ -47,7 +47,7 @@ C) Compare los valores de la tabla y realice sus conclusiones.
 
 
        VA= 2.82V
-       VB= 4.80
+       VB= 4.80V
 
 5. Conclusiones 
 
