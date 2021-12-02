@@ -52,6 +52,7 @@ El método del voltaje en los nodos divide el análisis del circuito en esta sec
 
 A) Mida cada uno de los voltajes de nodo y anote los resultados en la tabla
 
+![image](https://user-images.githubusercontent.com/94079321/144467864-99a5dd26-6373-40d4-9e67-d6f7d67e507a.png)
 
 
 B) Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito de la figura 3.1, obteniendo los valores de los voltajes de nodo. Anote los resultados en la tabla
