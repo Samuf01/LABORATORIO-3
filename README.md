@@ -78,9 +78,9 @@ C) Compare los valores de la tabla y realice sus conclusiones.
 
 5. Conclusiones 
 
+El método del voltaje en los nodos es un método que nos ayuda a calcular de forma organizada y poder plantear un sistema de ecuaciones para poder hallar el voltaje en los nodos y posteriormente hallar la corriente
 
-
-
+Los nodos principales son aquellos que despues del nodo de referencia obtengan el mayor numero de componentes
 
 6. Bibliografia
 
