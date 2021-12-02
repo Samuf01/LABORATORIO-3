@@ -39,14 +39,15 @@ C) Compare los valores de la tabla y realice sus conclusiones.
 
 -Calculos Analiticos
 
-![image](https://user-images.githubusercontent.com/94079321/144344152-c4d0ea1d-7b43-4486-9edb-2853c4fa31ef.png)
+![image](https://user-images.githubusercontent.com/94079321/144420073-2f4d5f4c-9cd5-437f-a4cd-43267f7a20ba.png)
 
-![image](https://user-images.githubusercontent.com/94079321/144344169-a1c8c371-4f44-4cc1-8732-11d4564613f6.png)
+![image](https://user-images.githubusercontent.com/94079321/144420109-7fa54ed3-1f89-42c0-b4c9-ec454fd43651.png)
 
-![image](https://user-images.githubusercontent.com/94079321/144344184-dc3ce55f-371a-4ec9-8752-f0188bbd2f75.png)
+![image](https://user-images.githubusercontent.com/94079321/144420129-c8b50412-eb63-40b4-af94-28b3636f00fa.png)
 
-![image](https://user-images.githubusercontent.com/94079321/144344193-4de9ce0c-4fbe-4220-a51c-eb887edb7474.png)
 
+       VA= 2.82V
+       VB= 4.80
 
 5. Conclusiones 
 
