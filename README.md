@@ -10,6 +10,9 @@ Integrantes: Flores Samuel, Cela Lizz, Sánchez Isaac
  
  1.2. 	Objetivo Especifico
  
+ Comprobar como el método del voltaje en los nodos ayuda a calcular los voltajes en los nodos principales
+ 
+ Determinar que es un nodo
 
 2 .  Información general   
 
